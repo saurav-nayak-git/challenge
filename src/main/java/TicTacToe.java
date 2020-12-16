@@ -1,7 +1,7 @@
 class TicTacToe {
 
     public static void main(String[] args) {
-        //Create a board
+        //Create a board for tictactoe
         createBoard();
     }
 
